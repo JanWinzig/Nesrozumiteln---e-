@@ -1,0 +1,1 @@
+# Nesrozumitelná řeč

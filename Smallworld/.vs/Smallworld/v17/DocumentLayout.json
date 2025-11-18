@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\winzi\\source\\repos\\Smallworld\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC99FAF-C971-4B02-AD6B-52CC7FF39287}|Smallworld\\Smallworld.csproj|c:\\users\\winzi\\source\\repos\\smallworld\\smallworld\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BC99FAF-C971-4B02-AD6B-52CC7FF39287}|Smallworld\\Smallworld.csproj|solutionrelative:smallworld\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\winzi\\source\\repos\\Smallworld\\Smallworld\\Program.cs",
+              "RelativeDocumentMoniker": "Smallworld\\Program.cs",
+              "ToolTip": "C:\\Users\\winzi\\source\\repos\\Smallworld\\Smallworld\\Program.cs",
+              "RelativeToolTip": "Smallworld\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T13:46:19.078Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

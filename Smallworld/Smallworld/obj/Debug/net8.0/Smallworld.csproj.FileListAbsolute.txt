@@ -1,0 +1,14 @@
+C:\Users\winzi\source\repos\Smallworld\Smallworld\bin\Debug\net8.0\Smallworld.exe
+C:\Users\winzi\source\repos\Smallworld\Smallworld\bin\Debug\net8.0\Smallworld.deps.json
+C:\Users\winzi\source\repos\Smallworld\Smallworld\bin\Debug\net8.0\Smallworld.runtimeconfig.json
+C:\Users\winzi\source\repos\Smallworld\Smallworld\bin\Debug\net8.0\Smallworld.dll
+C:\Users\winzi\source\repos\Smallworld\Smallworld\bin\Debug\net8.0\Smallworld.pdb
+C:\Users\winzi\source\repos\Smallworld\Smallworld\obj\Debug\net8.0\Smallworld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\winzi\source\repos\Smallworld\Smallworld\obj\Debug\net8.0\Smallworld.AssemblyInfoInputs.cache
+C:\Users\winzi\source\repos\Smallworld\Smallworld\obj\Debug\net8.0\Smallworld.AssemblyInfo.cs
+C:\Users\winzi\source\repos\Smallworld\Smallworld\obj\Debug\net8.0\Smallworld.csproj.CoreCompileInputs.cache
+C:\Users\winzi\source\repos\Smallworld\Smallworld\obj\Debug\net8.0\Smallworld.dll
+C:\Users\winzi\source\repos\Smallworld\Smallworld\obj\Debug\net8.0\refint\Smallworld.dll
+C:\Users\winzi\source\repos\Smallworld\Smallworld\obj\Debug\net8.0\Smallworld.pdb
+C:\Users\winzi\source\repos\Smallworld\Smallworld\obj\Debug\net8.0\Smallworld.genruntimeconfig.cache
+C:\Users\winzi\source\repos\Smallworld\Smallworld\obj\Debug\net8.0\ref\Smallworld.dll

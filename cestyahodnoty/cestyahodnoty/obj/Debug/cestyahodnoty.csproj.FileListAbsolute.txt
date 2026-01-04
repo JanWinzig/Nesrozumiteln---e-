@@ -1,0 +1,8 @@
+C:\Users\winzi\source\repos\cestyahodnoty\cestyahodnoty\bin\Debug\cestyahodnoty.exe.config
+C:\Users\winzi\source\repos\cestyahodnoty\cestyahodnoty\bin\Debug\cestyahodnoty.exe
+C:\Users\winzi\source\repos\cestyahodnoty\cestyahodnoty\bin\Debug\cestyahodnoty.pdb
+C:\Users\winzi\source\repos\cestyahodnoty\cestyahodnoty\obj\Debug\cestyahodnoty.csproj.AssemblyReference.cache
+C:\Users\winzi\source\repos\cestyahodnoty\cestyahodnoty\obj\Debug\cestyahodnoty.csproj.CoreCompileInputs.cache
+C:\Users\winzi\source\repos\cestyahodnoty\cestyahodnoty\obj\Debug\cestyahodnoty.exe
+C:\Users\winzi\source\repos\cestyahodnoty\cestyahodnoty\obj\Debug\cestyahodnoty.pdb
+C:\Users\winzi\source\repos\cestyahodnoty\cestyahodnoty\obj\Debug\cestyahodnoty.exe.config

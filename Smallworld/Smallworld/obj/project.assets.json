@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\winzi\\source\\repos\\Smallworld\\Smallworld\\Smallworld.csproj",
+      "projectUniqueName": "C:\\Users\\winzi\\OneDrive\\Documents\\1 škola\\IVT\\Nesrozumiteln---e-\\Smallworld\\Smallworld\\Smallworld.csproj",
       "projectName": "Smallworld",
-      "projectPath": "C:\\Users\\winzi\\source\\repos\\Smallworld\\Smallworld\\Smallworld.csproj",
+      "projectPath": "C:\\Users\\winzi\\OneDrive\\Documents\\1 škola\\IVT\\Nesrozumiteln---e-\\Smallworld\\Smallworld\\Smallworld.csproj",
       "packagesPath": "C:\\Users\\winzi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\winzi\\source\\repos\\Smallworld\\Smallworld\\obj\\",
+      "outputPath": "C:\\Users\\winzi\\OneDrive\\Documents\\1 škola\\IVT\\Nesrozumiteln---e-\\Smallworld\\Smallworld\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

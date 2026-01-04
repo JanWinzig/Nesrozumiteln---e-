@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Smallworld")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+08e81df9bed0d4f818e77619edc2604db8a66f47")]
 [assembly: System.Reflection.AssemblyProductAttribute("Smallworld")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Smallworld")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

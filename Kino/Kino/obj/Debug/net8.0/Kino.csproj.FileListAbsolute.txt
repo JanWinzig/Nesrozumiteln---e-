@@ -1,0 +1,14 @@
+C:\Users\winzi\source\repos\Kino\Kino\bin\Debug\net8.0\Kino.exe
+C:\Users\winzi\source\repos\Kino\Kino\bin\Debug\net8.0\Kino.deps.json
+C:\Users\winzi\source\repos\Kino\Kino\bin\Debug\net8.0\Kino.runtimeconfig.json
+C:\Users\winzi\source\repos\Kino\Kino\bin\Debug\net8.0\Kino.dll
+C:\Users\winzi\source\repos\Kino\Kino\bin\Debug\net8.0\Kino.pdb
+C:\Users\winzi\source\repos\Kino\Kino\obj\Debug\net8.0\Kino.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\winzi\source\repos\Kino\Kino\obj\Debug\net8.0\Kino.AssemblyInfoInputs.cache
+C:\Users\winzi\source\repos\Kino\Kino\obj\Debug\net8.0\Kino.AssemblyInfo.cs
+C:\Users\winzi\source\repos\Kino\Kino\obj\Debug\net8.0\Kino.csproj.CoreCompileInputs.cache
+C:\Users\winzi\source\repos\Kino\Kino\obj\Debug\net8.0\Kino.dll
+C:\Users\winzi\source\repos\Kino\Kino\obj\Debug\net8.0\refint\Kino.dll
+C:\Users\winzi\source\repos\Kino\Kino\obj\Debug\net8.0\Kino.pdb
+C:\Users\winzi\source\repos\Kino\Kino\obj\Debug\net8.0\Kino.genruntimeconfig.cache
+C:\Users\winzi\source\repos\Kino\Kino\obj\Debug\net8.0\ref\Kino.dll

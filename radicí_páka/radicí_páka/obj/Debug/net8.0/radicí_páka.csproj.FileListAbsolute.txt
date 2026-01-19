@@ -1,0 +1,14 @@
+C:\Users\winzi\source\repos\radicí_páka\radicí_páka\bin\Debug\net8.0\radicí_páka.exe
+C:\Users\winzi\source\repos\radicí_páka\radicí_páka\bin\Debug\net8.0\radicí_páka.deps.json
+C:\Users\winzi\source\repos\radicí_páka\radicí_páka\bin\Debug\net8.0\radicí_páka.runtimeconfig.json
+C:\Users\winzi\source\repos\radicí_páka\radicí_páka\bin\Debug\net8.0\radicí_páka.dll
+C:\Users\winzi\source\repos\radicí_páka\radicí_páka\bin\Debug\net8.0\radicí_páka.pdb
+C:\Users\winzi\source\repos\radicí_páka\radicí_páka\obj\Debug\net8.0\radicí_páka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\winzi\source\repos\radicí_páka\radicí_páka\obj\Debug\net8.0\radicí_páka.AssemblyInfoInputs.cache
+C:\Users\winzi\source\repos\radicí_páka\radicí_páka\obj\Debug\net8.0\radicí_páka.AssemblyInfo.cs
+C:\Users\winzi\source\repos\radicí_páka\radicí_páka\obj\Debug\net8.0\radicí_páka.csproj.CoreCompileInputs.cache
+C:\Users\winzi\source\repos\radicí_páka\radicí_páka\obj\Debug\net8.0\radicí_páka.dll
+C:\Users\winzi\source\repos\radicí_páka\radicí_páka\obj\Debug\net8.0\refint\radicí_páka.dll
+C:\Users\winzi\source\repos\radicí_páka\radicí_páka\obj\Debug\net8.0\radicí_páka.pdb
+C:\Users\winzi\source\repos\radicí_páka\radicí_páka\obj\Debug\net8.0\radicí_páka.genruntimeconfig.cache
+C:\Users\winzi\source\repos\radicí_páka\radicí_páka\obj\Debug\net8.0\ref\radicí_páka.dll

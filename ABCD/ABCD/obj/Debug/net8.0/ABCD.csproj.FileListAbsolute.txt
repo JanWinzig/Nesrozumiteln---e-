@@ -1,0 +1,14 @@
+C:\Users\winzi\source\repos\ABCD\ABCD\bin\Debug\net8.0\ABCD.exe
+C:\Users\winzi\source\repos\ABCD\ABCD\bin\Debug\net8.0\ABCD.deps.json
+C:\Users\winzi\source\repos\ABCD\ABCD\bin\Debug\net8.0\ABCD.runtimeconfig.json
+C:\Users\winzi\source\repos\ABCD\ABCD\bin\Debug\net8.0\ABCD.dll
+C:\Users\winzi\source\repos\ABCD\ABCD\bin\Debug\net8.0\ABCD.pdb
+C:\Users\winzi\source\repos\ABCD\ABCD\obj\Debug\net8.0\ABCD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\winzi\source\repos\ABCD\ABCD\obj\Debug\net8.0\ABCD.AssemblyInfoInputs.cache
+C:\Users\winzi\source\repos\ABCD\ABCD\obj\Debug\net8.0\ABCD.AssemblyInfo.cs
+C:\Users\winzi\source\repos\ABCD\ABCD\obj\Debug\net8.0\ABCD.csproj.CoreCompileInputs.cache
+C:\Users\winzi\source\repos\ABCD\ABCD\obj\Debug\net8.0\ABCD.dll
+C:\Users\winzi\source\repos\ABCD\ABCD\obj\Debug\net8.0\refint\ABCD.dll
+C:\Users\winzi\source\repos\ABCD\ABCD\obj\Debug\net8.0\ABCD.pdb
+C:\Users\winzi\source\repos\ABCD\ABCD\obj\Debug\net8.0\ABCD.genruntimeconfig.cache
+C:\Users\winzi\source\repos\ABCD\ABCD\obj\Debug\net8.0\ref\ABCD.dll

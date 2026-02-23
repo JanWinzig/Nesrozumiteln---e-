@@ -1,0 +1,14 @@
+C:\Users\winzi\source\repos\DvojkovéVětvičky\DvojkovéVětvičky\bin\Debug\net8.0\DvojkovéVětvičky.exe
+C:\Users\winzi\source\repos\DvojkovéVětvičky\DvojkovéVětvičky\bin\Debug\net8.0\DvojkovéVětvičky.deps.json
+C:\Users\winzi\source\repos\DvojkovéVětvičky\DvojkovéVětvičky\bin\Debug\net8.0\DvojkovéVětvičky.runtimeconfig.json
+C:\Users\winzi\source\repos\DvojkovéVětvičky\DvojkovéVětvičky\bin\Debug\net8.0\DvojkovéVětvičky.dll
+C:\Users\winzi\source\repos\DvojkovéVětvičky\DvojkovéVětvičky\bin\Debug\net8.0\DvojkovéVětvičky.pdb
+C:\Users\winzi\source\repos\DvojkovéVětvičky\DvojkovéVětvičky\obj\Debug\net8.0\DvojkovéVětvičky.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\winzi\source\repos\DvojkovéVětvičky\DvojkovéVětvičky\obj\Debug\net8.0\DvojkovéVětvičky.AssemblyInfoInputs.cache
+C:\Users\winzi\source\repos\DvojkovéVětvičky\DvojkovéVětvičky\obj\Debug\net8.0\DvojkovéVětvičky.AssemblyInfo.cs
+C:\Users\winzi\source\repos\DvojkovéVětvičky\DvojkovéVětvičky\obj\Debug\net8.0\DvojkovéVětvičky.csproj.CoreCompileInputs.cache
+C:\Users\winzi\source\repos\DvojkovéVětvičky\DvojkovéVětvičky\obj\Debug\net8.0\DvojkovéVětvičky.dll
+C:\Users\winzi\source\repos\DvojkovéVětvičky\DvojkovéVětvičky\obj\Debug\net8.0\refint\DvojkovéVětvičky.dll
+C:\Users\winzi\source\repos\DvojkovéVětvičky\DvojkovéVětvičky\obj\Debug\net8.0\DvojkovéVětvičky.pdb
+C:\Users\winzi\source\repos\DvojkovéVětvičky\DvojkovéVětvičky\obj\Debug\net8.0\DvojkovéVětvičky.genruntimeconfig.cache
+C:\Users\winzi\source\repos\DvojkovéVětvičky\DvojkovéVětvičky\obj\Debug\net8.0\ref\DvojkovéVětvičky.dll

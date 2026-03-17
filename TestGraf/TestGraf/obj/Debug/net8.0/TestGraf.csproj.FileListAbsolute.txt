@@ -1,0 +1,14 @@
+O:\7.M\TestGraf\TestGraf\bin\Debug\net8.0\TestGraf.exe
+O:\7.M\TestGraf\TestGraf\bin\Debug\net8.0\TestGraf.deps.json
+O:\7.M\TestGraf\TestGraf\bin\Debug\net8.0\TestGraf.runtimeconfig.json
+O:\7.M\TestGraf\TestGraf\bin\Debug\net8.0\TestGraf.dll
+O:\7.M\TestGraf\TestGraf\bin\Debug\net8.0\TestGraf.pdb
+O:\7.M\TestGraf\TestGraf\obj\Debug\net8.0\TestGraf.GeneratedMSBuildEditorConfig.editorconfig
+O:\7.M\TestGraf\TestGraf\obj\Debug\net8.0\TestGraf.AssemblyInfoInputs.cache
+O:\7.M\TestGraf\TestGraf\obj\Debug\net8.0\TestGraf.AssemblyInfo.cs
+O:\7.M\TestGraf\TestGraf\obj\Debug\net8.0\TestGraf.csproj.CoreCompileInputs.cache
+O:\7.M\TestGraf\TestGraf\obj\Debug\net8.0\TestGraf.dll
+O:\7.M\TestGraf\TestGraf\obj\Debug\net8.0\refint\TestGraf.dll
+O:\7.M\TestGraf\TestGraf\obj\Debug\net8.0\TestGraf.pdb
+O:\7.M\TestGraf\TestGraf\obj\Debug\net8.0\TestGraf.genruntimeconfig.cache
+O:\7.M\TestGraf\TestGraf\obj\Debug\net8.0\ref\TestGraf.dll
